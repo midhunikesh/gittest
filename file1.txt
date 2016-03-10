@@ -1,1 +1,1 @@
-fetch file 1
+fetch file 1 file 1
